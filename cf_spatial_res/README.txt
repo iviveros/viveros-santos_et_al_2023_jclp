@@ -10,6 +10,7 @@ The names of the layers follow this pattern: cf_spatial-aggregation_scenario.shp
 Where:
  - Spatial aggregation (spatial-aggregation) was performed at the level of the wine-growing regions (wr) and European regions as defined by the NUTS2 classification system (nuts2).
  - Scenarios: Are self-explanatory.
+ 
 
 Columns of attribute tables:
  - Apart from aw_cf, the column names of the attribute tables are self-explanatory.
