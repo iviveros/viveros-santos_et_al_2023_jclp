@@ -1,8 +1,8 @@
 README
 
-These layers accompany the submitted manuscript “Modelling the influence of climate change on characterization factors for copper terrestrial ecotoxicity” by Ivan Viveros Santos, Annie Levasseur, Cécile Bulle, Louise Deschênes, and Anne-Marie Boulay, for consideration of publication in Journal of Cleaner Production.
+These layers accompany the revised manuscript “Modelling the influence of climate change on characterization factors for copper terrestrial ecotoxicity” by Ivan Viveros Santos, Annie Levasseur, Cécile Bulle, Louise Deschênes, and Anne-Marie Boulay, for consideration of publication in Journal of Cleaner Production.
 
-Last update: 2022-06-19
+Last update: 2023-04-10
 
 
 The names of the layers follow this pattern: cf_spatial-aggregation_scenario.shp
