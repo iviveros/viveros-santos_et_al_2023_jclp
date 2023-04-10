@@ -1,0 +1,19 @@
+Fig. 4 was built based on the layers (shapefiles) of CFs found in the folder cf_spatial_res 
+following the link:
+https://github.com/iviveros/viveros-santos_et_al_2023_jclp/tree/main/cf_spatial_res
+
+The relative change (%) in area-weighted CFs compared to the baseline scenario for RCPs scenarios 
+was computed according to:
+
+rel_delta_cf = 100 *((cf_future- cf_base)/cf_base)
+
+The variable for computing the relative change in CFs was aw_cf, which stands for area-weighted 
+average of characterization factors (CFs) for a given wine-growing region.
+
+With cf_future in:
+cf_wr_rcp26
+cf_wr_rcp45
+cf_wr_rcp85
+
+And cf_base:
+cf_wr_baseline

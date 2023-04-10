@@ -1,0 +1,1 @@
+📊 This folder contains the data of the figures included in the revised manuscript **“Modelling the influence of climate change on characterization factors for copper terrestrial ecotoxicity.”** The data files are identified according to their corresponding figure caption.
