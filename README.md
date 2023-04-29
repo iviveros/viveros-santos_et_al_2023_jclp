@@ -1,6 +1,6 @@
 # Description
 
-This repository contains the results presented in the revised manuscript **“Modelling the influence of climate change on characterization factors for copper terrestrial ecotoxicity”**, submitted for consideration of publication in *Journal of Cleaner Production* (2023-04-10) by Ivan Viveros Santos<sup>a,*</sup>, Annie Levasseur<sup>b</sup>, Cécile Bulle<sup>c</sup>, Louise Deschênes<sup>a</sup>, and Anne-Marie Boulay<sup>a</sup>.
+This repository contains the results presented in the revised manuscript **“Modelling the influence of climate change on characterization factors for copper terrestrial ecotoxicity”**, submitted for consideration of publication in *Journal of Cleaner Production* (2023-04-27) by Ivan Viveros Santos<sup>a,*</sup>, Annie Levasseur<sup>b</sup>, Cécile Bulle<sup>c</sup>, Louise Deschênes<sup>a</sup>, and Anne-Marie Boulay<sup>a</sup>.
 
 *This repository is subject to change following the review process.*
 
