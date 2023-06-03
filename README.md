@@ -5,9 +5,9 @@ This repository contains the results presented in the article **"Modelling the i
 
 - 📂 The shapefiles of characterization factors for copper terrestrial ecotoxicity computed in this study can be found <a href="cf_spatial_res" target="_blank"><b>in this folder</b></a>.
 
-- 📊 The data files of the figures presented in this manuscript are available <a href="data_files" target="_blank"><b>in this folder</b></a>.
+- 📊 The data files of the figures presented in the article are available <a href="data_files" target="_blank"><b>in this folder</b></a>.
 
-- 🌍 The interactive maps that accompany the submitted manuscript can be found following <a href="https://iviveros.github.io/viveros-santos_et_al_2023_jclp" target="_blank"><b>this link</b></a>.
+- 🌍 The interactive maps that accompany the article can be found following <a href="https://iviveros.github.io/viveros-santos_et_al_2023_jclp" target="_blank"><b>this link</b></a>.
 
 
 # Authors information
